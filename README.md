@@ -48,10 +48,14 @@ Técnico em Automação Industrial (cursando)
 ![WordPress](https://img.shields.io/badge/WordPress-Iniciante-00b4d8?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Soft Skills  
-- **Comunicação em Inglês** (Intermediário/Avançado)  
-- Resolução de problemas  
-- Aprendizado contínuo  
-- Metodologia ágil (Iniciante)
+- **Comunicação em Inglês** (A2 - Básico/Pré-Intermediário)
+- **Liderança** (Gestão de Equipes em projetos Acadêmicos)
+- **Mediação de conflitos**
+- **Metodologia ágil** (Iniciante)
+- **Resolução de problemas**  
+- **Aprendizado contínuo**
+- **Trabalho em Equipe** 
+  
 
 
 ## GITHUB STATS
