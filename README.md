@@ -12,7 +12,7 @@ Técnico em Automação Industrial (cursando)
 
 🔧 Foco Profissional: 
 
-🤖 Robótica/Automação | 🧠 Inteligência Artificial 
+🤖 Robótica/Automação | 🧠 Inteligência Artificial | 🌐 Redes | 🛡️ Cibersegurança
 
 ✨ Interesses:    
 
