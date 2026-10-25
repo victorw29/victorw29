@@ -3,12 +3,12 @@
 ## ABOUT ME
 
 ### Victor Weverthon dos Santos Barros Fonsêca Costa ###
-🎓 25 anos | 🌎 Bom Jesus da Lapa, BA     
+🎓 26 anos | 🌎 Bom Jesus da Lapa, BA     
 
 📚 Formação Acadêmica:
 
-Graduando em Gestão da Tecnologia da Informação (IF Baiano) ||
-Técnico em Automação Industrial (cursando)
+Graduando em Gestão da Tecnologia da Informação (IF Baiano) 
+
 
 🔧 Foco Profissional: 
 
