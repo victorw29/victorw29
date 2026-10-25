@@ -7,7 +7,7 @@
 
 📚 Formação Acadêmica:
 
-Graduando em Gestão da Tecnologia da Informação (IF Baiano) 
+Graduando em Gestão da Tecnologia da Informação (IF Baiano) || Técnico em Informática (IF Baiano)
 
 
 🔧 Foco Profissional: 
